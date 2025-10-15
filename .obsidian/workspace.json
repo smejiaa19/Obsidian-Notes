@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Programming/NixOS/General NixOS.md",
+                "file": "1 - Programming/Hyprland/Hyprland NixOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General NixOS"
+              "title": "Hyprland NixOS"
             }
           },
           {
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91b4e20b5945b7f8",
@@ -256,9 +257,11 @@
   },
   "active": "d3ae0579456aed88",
   "lastOpenFiles": [
+    "1 - Programming/NixOS/General NixOS.md",
+    "1 - Programming/Hyprland/Hyprland NixOS.md",
+    "1 - Programming/Hyprland",
     "Participacion.md",
     "1 - Programming/NixOS/Nix Development Workflow.md",
-    "1 - Programming/NixOS/General NixOS.md",
     "1 - Programming/NixOS/Flakes.md",
     "1 - Programming/NixOS/Home Manager.md",
     "6 - Templates/General Notes.md",
@@ -281,7 +284,6 @@
     "6 - Templates",
     "5 - Assets",
     "4 - Documentation",
-    "3 - Zettelkasten",
     "Welcome.md"
   ]
 }
