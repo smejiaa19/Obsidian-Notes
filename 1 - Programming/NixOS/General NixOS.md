@@ -61,4 +61,6 @@ nvidia-offload glxgears
 # En simultaneo que se esta ejecutando glxgears podemos abrir una terminal nueva y aqui revisar los recursos de nvidia con nvidia-smi
 ```
 
+Para saber que canal de NixOs estamos utilizando debemos ejecutar el siguiente comando como root:
+`nix-channel --list | grep nixos`
 
